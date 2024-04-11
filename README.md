@@ -13,7 +13,7 @@ Credit Card Customers - https://www.kaggle.com/datasets/sakshigoyal7/credit-card
 2. Visit https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers link
 3. Click on "New Notebook" Option Available on the top of the screen.
 4. Download the ".ipynb" File attached in the current repository, select the right version
-5. Upload On the New Notebook option.
+5. Upload On the New Notebook place by clicking on Import Notebook option.
 6. Run The Notebook program
 
 
