@@ -46,3 +46,13 @@ Using same figure, Customer with less than 80 Transactions and having a credit l
 5. Model5 - Accuracy 97.4 % - XGBoost
 
 Best Model as per below accuracy results can be considered as XGBoost and Random Forest as the second best model.
+
+# Ethics Report
+
+1. Model 3 and 4 i.e, Logistic Regression and Naive Bayes has less bais towards ethics necessity which includes Age, Marital Status, Education Level and Gender.
+2. Females are to an extent more biased towards attrition than male across all the models.
+3. Married people are slightly more biased than single, its less that 10 % as of current data results.
+4. In terms of Education, Graduates are a bit biased and has higher chances of wrongly being predicted for Attrition compare to others.
+5. People aged between 40 to 49 are having chances of wrongly predicted as attrition compare to other age segment people.
+6. Maximum concern Area is Gender biasness and highest is being seen in Female with XGBoost Model usage which is around 8.19
+
