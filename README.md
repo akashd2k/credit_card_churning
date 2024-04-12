@@ -39,9 +39,10 @@ Using same figure, Customer with less than 80 Transactions and having a credit l
 
 5 Models has been trained and there result has been published below.
 
-Model1 - Accuracy 96.7 % - Random Forest
-Model2 - Accuracy 93.6 % - Decision Tree
-Model3 - Accuracy 89.1 % - Logistic Regression
-Model4 - Accuracy 89.3 % - Naive Bayes
-Model5 - Accuracy 97.4 % - XGBoost
+1. Model1 - Accuracy 96.7 % - Random Forest
+2. Model2 - Accuracy 93.6 % - Decision Tree
+3. Model3 - Accuracy 89.1 % - Logistic Regression
+4. Model4 - Accuracy 89.3 % - Naive Bayes
+5. Model5 - Accuracy 97.4 % - XGBoost
+
 Best Model as per below accuracy results can be considered as XGBoost and Random Forest as the second best model.
