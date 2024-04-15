@@ -53,4 +53,4 @@ Best Model as per below accuracy results can be considered as XGBoost and Random
 3. Marriage data is more understood by XGBoost and fitted properly compared to other models
 4. In terms of Education, Post Graduated and High School customers are expected to be more biased. with even best model chances are more than 15 %.
 5. People aged between 60 to 69 are having chances of wrongly predicted as existing compare to other age segment people.
-6. Maximum concern Area is Age biasness and highest is being seen in between 60 to 69 with Logistic Regression Model usage which is around 62 %6. 
+6. Maximum concern Area is Age biasness and highest is being seen in between 60 to 69 with Logistic Regression Model usage which is around 62 %. 
